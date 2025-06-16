@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: green;
     /* Modifica este color por otro */
     text-align: center;
     margin: 0;
@@ -15,7 +15,7 @@ footer {
 }
 
 article {
-    background-color: #ffffff;
+    background-color: orange;
     /* Modifica este color por otro */
     padding: 20px;
     border-radius: 8px;
